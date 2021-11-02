@@ -1,2 +1,2 @@
 pths: pathfinder_standalone.c
-	gcc -o pths pathfinder_standalone.c -lm
+	gcc -o pth pathfinder_standalone.c -lm
